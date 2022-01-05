@@ -1,5 +1,7 @@
 module.exports = {
     //...
-    stats: 'errors-only',
+    stats: {
+      warnings: false
+   }
   };
  
